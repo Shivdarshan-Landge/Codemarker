@@ -11,7 +11,7 @@ import javax.persistence.PrePersist;
 import javax.persistence.PreUpdate;
 import javax.validation.constraints.NotBlank;
 import javax.validation.constraints.Size;
-
+//for sts to git
 @Entity
 public class Report {
 	@Id
