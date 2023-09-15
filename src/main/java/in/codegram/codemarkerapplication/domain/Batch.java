@@ -12,7 +12,7 @@ import javax.persistence.PreUpdate;
 import javax.validation.constraints.NotBlank;
 import javax.validation.constraints.Size;
 
-//change for STS to GIT
+
 @Entity
 public class Batch {
 	
